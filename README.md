@@ -14,5 +14,6 @@ The web implentation take input as text input (One need to use copy the text fro
 A set of entities is shown in decreasing order of their frequecies.
 
 ANY CHANGE/ SUGGESTION/ COMMENT is highly appreciated.
+CONTACT: mdaakib18@gmail.com
 
 
