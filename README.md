@@ -2,7 +2,7 @@
 Entity extraction from free text
 
 
-# WEBLINK [https://knowdata.shinyapps.io/ExtractConcepts]
+# WEBLINK [https://knowdata.shinyapps.io/ExtractEntities]
 
 # PURPOSE OF THE APP
 This particular app is to extract different types of entities (such as names, places etc.) from free text (such as news, blogs and articles).
