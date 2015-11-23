@@ -36,16 +36,6 @@ extract_patterns<-function(text){
   df
 }
 
-html_text<-function(p){
-  html<-'<h3>Extracted Entities :</h3><ol>'
-  for(i in 1: length(p)){
-    html<-paste(html,sprintf('<li>%s</li>',p[i]))
-  }
-  html<-paste(html,'</ol>')
-  html
-}
-
-
 shinyServer(
   function(input, output) {
     concepts <- reactive({extract_patterns(input$text)})
